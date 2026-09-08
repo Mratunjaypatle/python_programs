@@ -1,0 +1,6 @@
+Suppose an electricity company charges :
+bill_unit <= 100 ->  ₹5 per unit 
+bill_unit <= 200  ->  ₹7 per unit
+bill_unit <= 300  ->  ₹10 per unit
+
+ 
