@@ -11,6 +11,7 @@ if number % 2 == 0 :
 else :
    print("odd number ")
 
+
 # database
 data_name = "Admin"
 data_password = "1234"
@@ -47,27 +48,4 @@ elif student_marks >= 40 :
    print("Grade D")
 else :
    print("Fail")
-
-# nested if 
-
-"""
-means putting one if statement inside another if statement  
-"""
-
-"""
-Suppose a student can attend an exam 
-if :
-      student attendance should be more than 75 % 
-      student fees should be paid 
-"""
-attendance = 76 
-fees_paid = True 
-
-if attendance >= 75 :
-    if fees_paid == True : 
-       print("Student is eleigble for exam .. ")
-    else :
-       print("please pay your fees")
-else :
-   print("attend is too low , talk to your HOD")
 

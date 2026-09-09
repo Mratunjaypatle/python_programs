@@ -33,3 +33,6 @@ if ram>=100 :
     print("ram can eat ice - cream")
 else :
     print("ram can not eat ice-cream")
+
+
+
