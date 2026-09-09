@@ -25,7 +25,7 @@ for student in students :
           break 
      print(student)
 
-#  continue in loop
+#  continue in loop -> skip the current iteration and move to others
 for i in range(1,6):
      if i == 3 :
           continue
@@ -33,3 +33,7 @@ for i in range(1,6):
      
 
 
+for i in range(1,6) :
+     pass
+
+print("code completed")
