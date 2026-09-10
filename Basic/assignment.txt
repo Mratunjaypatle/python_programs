@@ -12,4 +12,3 @@ Questions :
 5. Reverse a Number using while loop.
 
 Functions in Python...
-
