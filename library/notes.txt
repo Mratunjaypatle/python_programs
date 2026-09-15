@@ -1,0 +1,12 @@
+Library :- It is a collection of already-written python code  & function that we can use in our program
+
+Every library have mulitple functions(pre defined)..
+
+Library vs module vs package 
+
+Module -> Module is generally a python file containing resuable code.. math.py
+
+Package -> Collection of modules .. 
+
+
+import library_name

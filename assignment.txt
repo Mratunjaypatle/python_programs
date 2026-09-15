@@ -13,3 +13,11 @@ Questions :
 
 Functions in Python...
 
+Assignment 
+
+Find top student based on marks 
+largest number 
+
+Categorize student by performance
+
+
