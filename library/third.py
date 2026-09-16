@@ -8,7 +8,7 @@ data = {
     "Salary" : [10000 , 23000 , 43000],
     "city" : ["Mumbai" , "Banglore" , "Indore"]
 }
-
+ 
 data_frame = pd.DataFrame(data)
 
 

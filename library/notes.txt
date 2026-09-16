@@ -10,3 +10,12 @@ Package -> Collection of modules ..
 
 
 import library_name
+
+Pandas => Pandas is a library 
+works with structured / tabular data 
+cleaning data
+Analyzing data
+Filter our data
+Transform our data
+Handle values 
+Read files 
