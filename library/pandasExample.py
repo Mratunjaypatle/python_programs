@@ -3,6 +3,8 @@ import pandas as pd
 Series (one column)
 DataFrame (Table)
 """
+
+
 marks = pd.Series([85,78,67,79,90])
 print(marks)
 print(marks[0])

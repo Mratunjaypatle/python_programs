@@ -21,3 +21,11 @@ largest number
 Categorize student by performance
 
 
+Make a dataSet related to details of students  
+then perform dataframe 
+
+number of rows and column 
+total cells 
+data types
+print first 3 rows
+print last 4 rows
