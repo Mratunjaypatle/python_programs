@@ -10,3 +10,4 @@ numerical analysis -> numpy
 Data Visualization -> Matplotlib , Seaborn
 Statical Analysis -> Pandas, Numpy 
 
+Matplotlib 

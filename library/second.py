@@ -2,6 +2,7 @@
 #python's package installer -> pip 
 
 import numpy as np
+
 # array
 numbers = np.array([10,20,30,40])
 print(numbers)
