@@ -1,3 +1,4 @@
+# plot 
 import matplotlib.pyplot as plt
 x = [1,2,3,4,5] # months
 y = [10000,12000,30000,45000 , 90000] # revenue
@@ -67,3 +68,17 @@ plt.xlabel("Mango Quantities")
 plt.ylabel("Mango Prices")
 
 plt.show()
+
+# bar chart -> for comparing two things categorically 
+
+import matplotlib.pyplot as plt
+countries = ["USA" , "China" , "Germany" , "Japan" , "Unites Kingdom"]
+economies = [32.38 , 20.85 ,5.45 , 4.38 , 4.26]
+plt.bar(countries , economies)
+plt.title("Economies")
+plt.xlabel("Countries")
+plt.ylabel("Economies")
+
+plt.show()
+
+# pie chart - it shows parts of a whole

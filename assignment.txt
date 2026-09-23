@@ -29,3 +29,8 @@ total cells
 data types
 print first 3 rows
 print last 4 rows
+
+
+Assignment for matplotlib 
+perform a visualization for employes data
+

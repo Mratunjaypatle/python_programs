@@ -11,3 +11,7 @@ print(students[0])
 print(students[0][0])
 print(students[0][1])
 print(students[1][1])
+
+
+iphone18 =  "apple new phone"
+ 
