@@ -8,6 +8,7 @@ student = {
 for key in student :
     print(key)
 
+
 for value in student.values():
     print(value)
 
