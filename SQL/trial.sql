@@ -104,13 +104,13 @@ select * from employee where city = "Lucknow";
 select * from employee where empid = 4;
    
 
+select * from employee;
+alter table employee add salary int(100);
+desc employee;
 
+update employee set city = "Bhopal" where empid = 1;
 
-
-
-
-
-
+update employee set salary = 80000 where empid = 2;
 
 
 
